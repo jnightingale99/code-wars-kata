@@ -1,4 +1,4 @@
-# CodeWarsKata
+# Code Wars Kata
 Solutions from Kata Challenges
 
 # Recursion 101
